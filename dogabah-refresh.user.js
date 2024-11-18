@@ -5,8 +5,8 @@
 // @supportURL   https://github.com/yanorei32/dogabah-refresh/issues
 // @namespace    https://yr32.net/
 // @website      https://github.com/yanorei32/dogabah-refresh
-// @updateURL    https://github.com/Yanorei32/dogabah-refresh/raw/master/dogabah-refresh.user.js
-// @downloadURL  https://github.com/Yanorei32/dogabah-refresh/raw/master/dogabah-refresh.user.js
+// @updateURL    https://github.com/yanorei32/dogabah-refresh/raw/master/dogabah-refresh.user.js
+// @downloadURL  https://github.com/yanorei32/dogabah-refresh/raw/master/dogabah-refresh.user.js
 // @include      https://dagobah.net/flash/*
 // @version      0.1.0
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=dagobah.net
